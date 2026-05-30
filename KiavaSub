@@ -1,5 +1,5 @@
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-vless://0bb5428d-a59a-45ef-8b8e-f07abb482bd3@104.18.153.82:443?encryption=none&security=tls&sni=super-resonance-913e.mamadiemaill.workers.dev&allowInsecure=true&alpn&fp=chrome&type=ws&host=super-resonance-913e.mamadiemaill.workers.dev&path=/&packetEncoding=xudp#EdgeTun%23
+vless://0bb5428d-a59a-45ef-8b8e-f07abb482bd3@104.17.232.105:443?encryption=none&security=tls&sni=super-resonance-913e.mamadiemaill.workers.dev&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=super-resonance-913e.mamadiemaill.workers.dev&path=%2F#MCI%204%23
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
